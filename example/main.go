@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/mahe54/kitt-spinner/kitt"
+	"github.com/mahe54/kitt-spinner"
 )
 
 func main() {
